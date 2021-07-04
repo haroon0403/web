@@ -1,2 +1,2 @@
-FROM httpd:2.4
+FROM haroon/webapp
 ADD . /var/www/html
