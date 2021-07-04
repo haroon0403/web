@@ -1,2 +1,2 @@
-FROM haroon/webapp
+FROM haroon-webapp
 ADD . /var/www/html
