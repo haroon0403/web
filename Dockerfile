@@ -1,2 +1,2 @@
-FROM haroon0403/web
+FROM ubuntu:latest
 ADD . /var/www/html
